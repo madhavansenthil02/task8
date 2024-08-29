@@ -1,0 +1,59 @@
+body {
+    height: 100vh;
+    font-family: "Space Mono", monospace;
+}
+
+header {
+    height: 15vh;
+    padding: 25px;
+    text-transform: uppercase;
+    color: rgb(65, 64, 64);
+}
+
+main {
+    height: 80vh;
+    padding: 65px;
+    text-align: center;
+}
+
+main div {
+    display: inline-block;
+}
+
+footer {
+    height: 5vh;
+    text-align: center;
+}
+
+.first-part {
+    width: 20rem;
+}
+
+.second-part {
+    vertical-align: top;
+    padding-left: 3rem;
+    text-align: left;
+}
+
+.heading {
+    font-size: 3rem;
+}
+
+.para {
+    color: rgb(10, 10, 10);
+    font-weight: 500;
+    line-height: 30px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+
+}
+
+main a {
+    border: solid 1px rgb(17, 17, 17);
+    background-color: black;
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px;
+}
